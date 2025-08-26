@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **LLM and Transformer**
 
-- 👯 I’m looking to collaborate on **Passionate about building open-source AI tools & reading latest research**
-
 - 💬 Ask me about **ML , DL and Image Processing**
 
 - 📫 How to reach me **khansalman881277@gmail.com**
