@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Salman khan</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Pakistan.</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1znVbBjcxThhq4wMFRo4Xf&ust=1755972143506000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCktfeAn48DFQAAAAAdAAAAABAE"
+<h3 align="center">Computer vision ! XAI ! Deep Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khansalman881277-stack&label=Profile%20views&color=0e75b6&style=flat" alt="khansalman881277-stack" /> </p>
 
 - 🔭 I’m currently working on **image processing and LLM**
 
 - 🌱 I’m currently learning **LLM and Transformer**
+
+- 👯 I’m looking to collaborate on **Passionate about building open-source AI tools & reading latest research**
 
 - 💬 Ask me about **ML , DL and Image Processing**
 
